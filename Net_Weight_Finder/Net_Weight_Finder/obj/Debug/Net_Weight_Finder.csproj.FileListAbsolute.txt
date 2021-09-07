@@ -1,0 +1,29 @@
+c:\users\sbish\documents\visual studio 2017\Projects\Net_Weight_Finder\Net_Weight_Finder\bin\Debug\Net_Weight_Finder.exe.config
+c:\users\sbish\documents\visual studio 2017\Projects\Net_Weight_Finder\Net_Weight_Finder\bin\Debug\Net_Weight_Finder.exe
+c:\users\sbish\documents\visual studio 2017\Projects\Net_Weight_Finder\Net_Weight_Finder\bin\Debug\Net_Weight_Finder.pdb
+c:\users\sbish\documents\visual studio 2017\Projects\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.csprojResolveAssemblyReference.cache
+c:\users\sbish\documents\visual studio 2017\Projects\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.Properties.Resources.resources
+c:\users\sbish\documents\visual studio 2017\Projects\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.csproj.GenerateResource.Cache
+c:\users\sbish\documents\visual studio 2017\Projects\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.exe
+c:\users\sbish\documents\visual studio 2017\Projects\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.pdb
+c:\users\sbish\documents\visual studio 2017\Projects\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.frmCycleCounter.resources
+C:\Users\sbish\Desktop\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\bin\Debug\Net_Weight_Finder.exe.config
+C:\Users\sbish\Desktop\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\bin\Debug\Net_Weight_Finder.exe
+C:\Users\sbish\Desktop\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\bin\Debug\Net_Weight_Finder.pdb
+C:\Users\sbish\Desktop\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.csprojResolveAssemblyReference.cache
+C:\Users\sbish\Desktop\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.frmCycleCounter.resources
+C:\Users\sbish\Desktop\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.Properties.Resources.resources
+C:\Users\sbish\Desktop\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.csproj.GenerateResource.Cache
+C:\Users\sbish\Desktop\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.csproj.CoreCompileInputs.cache
+C:\Users\sbish\Desktop\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.exe
+C:\Users\sbish\Desktop\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.pdb
+F:\Backup Ark\backup 2019\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\bin\Debug\Net_Weight_Finder.exe.config
+F:\Backup Ark\backup 2019\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\bin\Debug\Net_Weight_Finder.exe
+F:\Backup Ark\backup 2019\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\bin\Debug\Net_Weight_Finder.pdb
+F:\Backup Ark\backup 2019\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.csprojAssemblyReference.cache
+F:\Backup Ark\backup 2019\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.frmCycleCounter.resources
+F:\Backup Ark\backup 2019\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.Properties.Resources.resources
+F:\Backup Ark\backup 2019\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.csproj.GenerateResource.cache
+F:\Backup Ark\backup 2019\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.csproj.CoreCompileInputs.cache
+F:\Backup Ark\backup 2019\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.exe
+F:\Backup Ark\backup 2019\Development\Net_Weight_Finder2\Net_Weight_Finder\Net_Weight_Finder\obj\Debug\Net_Weight_Finder.pdb

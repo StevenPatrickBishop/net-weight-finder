@@ -1,0 +1,30 @@
+30 Open Head Drum + Liner & faucet,15.9
+55 Gal Plasic Drum,10
+55 Open Head Drum,21.8
+55 Open Head Drum + Liner & faucet,23.6
+1 Gal Plastic Pail + Lid,0.32
+2 Gal Plastic Pail + Lid,0.59
+5 Gal Grey Plastic Pail + Lid,1.4
+5 Gal Black Straight Side Plastic Pail + Lid,1.3
+6 Gal White Plastic Pail + Lid,1.68
+5 Gal Steel Pail + Lid,1.66
+5 Gal Closed Steel Can + Rieke Cap,1.95
+1 Gal Plastic Jug,0.12
+White Retain + Lid,0.05
+R0424 Plastic Container with Red Cap,0.06
+Black R0022 Drum with BUng Adapter and Fauset,25.6
+R0144 Jug,1.25
+Light Blue 5 Gal Fixed Handle Plastic Jug,2
+Tall Dark Blue 5 Gallon White Handle Plastic Jug,1
+Tall Rectangle Tin Can (Corner Spout),1.11
+Aldrich Brown Glass Jar (mini) with Red Cap,0.06
+Aldrich Brown Glass Jar (Small) with Red Cap,0.47
+Aldrich Brown Glass Jar (Medium) with Red Cap,0.71
+P3035 5 Gal Plastic ,2.04
+P3036 1 QT Can + Cap & Seal (F-Style),0.14
+P3037 1 Gal Can + Cap & Seal (F-Style),0.36
+P3215 1 Pint Can,0.09
+P3268 8 OZ Round Can + Cap & Seals,0.05
+P3342 1 Pint Round Can (Grey Lined) + Lid,0.07
+P3344 1 QT Round Can (Grey Lined),0.14
+P3345 1 Gal Round Can (Grey Lined),0.32
